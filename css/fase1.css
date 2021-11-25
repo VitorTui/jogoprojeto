@@ -1,0 +1,96 @@
+
+ 
+ .olho{
+    background-image: url(../img/olho.jpg);
+    
+    
+}
+
+.olho1 {
+    font-size: 20px;
+    color: red;
+    background-color: black
+    
+
+}
+
+
+.conteudo {
+    font-size: 50px;
+    color: red;
+    padding: 30px;
+   
+}
+
+.fundo {
+    font-size: 30px;
+    color: red;
+}
+
+
+
+.fundo2 {
+    background-image: url(../img/gth.jpg);
+    
+    
+    
+    padding: auto;
+    font-size: 30px;
+    color: red;
+}
+
+.fundo3 {
+    font-size: 35px;
+    color: red;
+    background-color: black;
+    
+    
+    
+
+}
+a {
+    width: 100px;
+    height: 100px;
+    background-color: royalblue;
+    text-align: center;
+    padding: 6px;
+    border-radius: 12px;
+    margin-top: 5%;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: crimson;
+    font-size: 40px;
+}
+
+.olho22 {
+    font-size: 35px;
+    color: red;
+    background-color: black;
+    
+}
+
+.olho23 {
+    font-size: 35px;
+    color: red;
+    background-color: black;
+}
+
+.olho24 {
+    font-size: 35px;
+    color: red;
+    background-color: black;
+}
+
+
+.olho252 {
+    font-size: 35px;
+    color: red;
+    
+    background-image: url(..//img/fundo2.jpg);
+
+}
+
+
